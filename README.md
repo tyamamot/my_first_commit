@@ -1,2 +1,3 @@
-my_first_commit
+Kyoto University
 ===============
+GitHub Class
